@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SvetlanaPolunina/experimemt/issues"
   },
-  "homepage": "https://github.com/SvetlanaPolunina/experimemt#readme"
+  "homepage": "https://github.com/SvetlanaPolunina/experimemt#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
