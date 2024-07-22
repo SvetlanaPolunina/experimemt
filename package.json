@@ -1,0 +1,20 @@
+{
+  "name": "experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvetlanaPolunina/experimemt.git"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SvetlanaPolunina/experimemt/issues"
+  },
+  "homepage": "https://github.com/SvetlanaPolunina/experimemt#readme"
+}
